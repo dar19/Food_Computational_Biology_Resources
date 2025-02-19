@@ -56,3 +56,17 @@ This repository is licensed under the **MIT License**.
 🌟 **Star this repository** if you find it useful!  
 💡 **Open an issue** if you have any suggestions or requests!
 
+## ⚠️ Disclaimer  
+This repository is intended for **educational and informational purposes only**. While we strive to provide accurate and up-to-date resources, we **do not guarantee** the completeness, accuracy, or reliability of any information, datasets, or tools listed here.  
+
+- **No Legal Liability**: The repository maintainers and contributors are **not responsible** for any direct, indirect, incidental, or consequential damages resulting from the use of this content.  
+- **No Endorsement**: Any referenced third-party tools, datasets, or publications are **not endorsed** by us.  
+- **No Warranties**: This repository **does not provide** any warranties, explicit or implied, including but not limited to merchantability or fitness for a particular purpose.  
+- **Use at Your Own Risk**: Users are advised to **verify information independently** and **follow appropriate ethical and legal guidelines** when utilizing resources from this repository.  
+
+By using this repository, you **agree that no legal claims** can be made against the maintainers or contributors. 🚀
+ 
+This software/information or any associated materials are provided **"as is"**, without warranty of any kind, express or implied. The maintainers and contributors shall **not be liable for any claims, damages, or liabilities** arising from the use of this repository.  
+
+By using this repository, you agree that the content is for **informational and educational purposes only**, and you assume full responsibility for its application.
+
