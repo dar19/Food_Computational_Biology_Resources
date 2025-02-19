@@ -1,10 +1,8 @@
-# Food_Computational_Biology_Resources
-This repository is a curated collection of resources, tools, datasets, and research papers focused on Computational Biology in Food Science. It is designed to help researchers, students, and professionals explore the application of bioinformatics, AI, and computational techniques in food science.
-
 # 🍎 Food Computational Biology Resources
+Curated collection of resources for research/leanring focused on Computational Biology in Food Science.
 
 ## 🔬 About
-This repository is a curated list of **resources, datasets, tools, research papers, and tutorials** at the intersection of **food science and computational biology**. It is aimed at **researchers, students, and professionals** interested in areas such as **nutrigenomics, food safety, bioinformatics, metabolomics, AI in food science, and food microbiome studies**.
+This repository is a curated list of **resources, datasets, tools, research papers, and tutorials** at the intersection of **food science and computational biology**. It is aimed at **researchers, students, and professionals** interested in areas such as **nutrigenomics, food safety, bioinformatics, metabolomics, AI in food science, and food microbiome studies** including other areas.
 
 ## 📂 Repository Structure
 - **[Datasets](datasets/)** – Public datasets for food computational biology.
